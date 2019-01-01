@@ -24,7 +24,7 @@ namespace GameServer
         {
             Dictionary<byte, object> dict = new Dictionary<byte, object>
             {
-                {1, "gameServer"}
+                {1, "gameServer1"}
             };
 
             OperationResponse reponse = new OperationResponse(1, dict);
