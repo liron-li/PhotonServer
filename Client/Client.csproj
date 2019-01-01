@@ -32,6 +32,19 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="ExitGamesLibs">
+      <HintPath>C:\360极速浏览器下载\ExitGames-Photon-Server-SDK_v3-4-31-10808\lib\ExitGamesLibs.dll</HintPath>
+    </Reference>
+    <Reference Include="Photon.SocketServer">
+      <HintPath>C:\360极速浏览器下载\ExitGames-Photon-Server-SDK_v3-4-31-10808\lib\Photon.SocketServer.dll</HintPath>
+    </Reference>
+    <Reference Include="Photon3DotNet">
+      <HintPath>C:\360极速浏览器下载\ExitGames-Photon-Server-SDK_v3-4-31-10808\lib\Photon3DotNet.dll</HintPath>
+    </Reference>
+    <Reference Include="PhotonHostRuntimeInterfaces">
+      <HintPath>C:\360极速浏览器下载\ExitGames-Photon-Server-SDK_v3-4-31-10808\lib\PhotonHostRuntimeInterfaces.dll</HintPath>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
