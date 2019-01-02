@@ -12,5 +12,5 @@ PhotonServer demo
 - vs 2017
 - windows 10
 - mysql 5.7
-- photon server 3.7
+- photon server 3.4.31
 - dotnet 4.6.1
